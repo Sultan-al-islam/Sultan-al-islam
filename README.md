@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan Al Islam</h1>
-<h3 align="center">Bsc. in Computer Science and Engineering (2nd Year, 2nd Semester)</h3>
+<h3 align="center">Bsc. in Computer Science and Engineering (3rd Year, 1st Semester)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultan-al-islam&label=Profile%20views&color=0e75b6&style=flat" alt="sultan-al-islam" /> </p>
 
